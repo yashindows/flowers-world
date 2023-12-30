@@ -1,0 +1,3 @@
+# Git status
+
+all ok
